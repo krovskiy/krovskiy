@@ -1,1 +1,1 @@
-i won't scatter your sorrow to the heartless sea, i will always be with you.
+lucrurile nu sunt greu de făcut. greu este să te pui în starea de a le face.
