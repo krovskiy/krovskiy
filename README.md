@@ -27,6 +27,7 @@
 
 - 🔵 [**meowifier-web**](https://github.com/krovskiy/meowifier-web)
 - 🔵 [**qrcodeweb**](https://github.com/krovskiy/qrcodeweb)
+- 🔵 [**botanica (extension)**](https://github.com/krovskiy/botanica)
 
 ---
 
@@ -35,15 +36,6 @@
 - 🟣 [midi-to-appeal](https://github.com/krovskiy/midi-to-appeal)
 - 🟣 [**feed-kayas-cat**](https://github.com/krovskiy/feed-kayas-cat)
 - ⚪ [Aria-segmentului-reprezentare-grafica](https://github.com/krovskiy/Aria-segmentului-reprezentare-grafica)
-
----
-
-### 𖤍 uni + school work 𖤍
-
-- ⚪ [olimpiada-md-preg](https://github.com/krovskiy/olimpiada-md-preg)
-- ⚪ [k-beri-project](https://github.com/krovskiy/k-beri-project)
-- ⚪ [ICS0017-Project](https://github.com/Puntsik/ICS0017-Project)
-- ⚪ [cprogramming-practice](https://github.com/krovskiy/cprogramming-practice)
 
 ---
 
@@ -65,6 +57,15 @@
 ### 𖤍 commissions 𖤍
 
 - 🟣 [**soundhouse-md**](https://github.com/krovskiy/soundhouse-md)
+
+---
+
+### 𖤍 uni + school work 𖤍
+
+- ⚪ [olimpiada-md-preg](https://github.com/krovskiy/olimpiada-md-preg)
+- ⚪ [k-beri-project](https://github.com/krovskiy/k-beri-project)
+- ⚪ [ICS0017-Project](https://github.com/Puntsik/ICS0017-Project)
+- ⚪ [cprogramming-practice](https://github.com/krovskiy/cprogramming-practice)
 
 ---
 
