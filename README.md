@@ -19,19 +19,19 @@
 
 #### web apps & tools
 
-- `[*]` [soundhouse-md](https://github.com/krovskiy/soundhouse-md) - commissioned website
+- `[*]` [soundhouse-md](https://github.com/krovskiy/soundhouse-md) - a commissioned website for soundhouse.md
 - `[+]` [enginaator-2026](https://github.com/krovskiy/enginaator-2026) - voice-driven room service hackathon project
 - `[+]` [meowifier-web](https://github.com/krovskiy/meowifier-web) - text, but with more meows
-- `[+]` [qrcodeweb](https://github.com/krovskiy/qrcodeweb) - text to QR codes
+- `[+]` [qrcodeweb](https://github.com/krovskiy/qrcodeweb) - turn your text into a QR code
 - `[+]` [botanica](https://github.com/krovskiy/botanica) - QHD screenshots in Chrome DevTools
 
 #### events & community
 
 - `[*]` [EggHunt Event!](https://github.com/krovskiy/egghunt-event) - kafeshka egg hunt
 - `[+]` [ituk-beerpong](https://github.com/krovskiy/ituk-beerpong) - tournament registration and live brackets
-- `[+]` [ityk-karaoke](https://github.com/krovskiy/ityk-karaoke) - karaoke queue and voting
-- `[+]` [Secret Santa](https://github.com/krovskiy/secret-santa) - secret santa for k?beri helpdesk
-- `[+]` [Happy Birthday Wall](https://github.com/krovskiy/hbd-website) - live birthday messages
+- `[+]` [ityk-karaoke](https://github.com/krovskiy/ityk-karaoke) - join the karaoke lineup, cheer on the singers and vote
+- `[+]` [Secret Santa](https://github.com/krovskiy/secret-santa) - secret santa for küberi helpdesk
+- `[+]` [Happy Birthday Wall](https://github.com/krovskiy/hbd-website) - a live feed of birthday messages
 
 #### desktop & games
 
