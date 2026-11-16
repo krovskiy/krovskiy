@@ -6,66 +6,43 @@
 
 ---
 
-### ٩(｡•́‿•̀｡)۶ legend
+### projects
 
-| mark | meaning |
-|:---:|:---|
-| 🟣 | **flagship** - the big ones |
-| 🔵 | **active** - solid, still maintained or used |
-| ⚪ | **archived / for the record** - school, one-offs |
+`[*]` featured  /  `[+]` more projects
 
----
+#### security & infrastructure
 
-### 𖤍 cybersecurity projects 𖤍
+- `[*]` [rocinante](https://github.com/krovskiy/rocinante) - SMS ticket system security analysis
+- `[+]` [bleh](https://github.com/krovskiy/bleh) - intentionally vulnerable notes app
+- `[+]` [school-infra](https://github.com/krovskiy/school-infra) - school network infrastructure template
+- `[+]` [cryptololerz](https://github.com/krovskiy/cryptololerz) - cryptography exercises
 
-- 🟣 [**rocinante**](https://github.com/krovskiy/rocinante)
-- 🔵 [**bleh**](https://github.com/krovskiy/bleh)
+#### web apps & tools
 
----
+- `[*]` [soundhouse-md](https://github.com/krovskiy/soundhouse-md) - commissioned website
+- `[+]` [enginaator-2026](https://github.com/krovskiy/enginaator-2026) - voice-driven room service hackathon project
+- `[+]` [meowifier-web](https://github.com/krovskiy/meowifier-web) - text, but with more meows
+- `[+]` [qrcodeweb](https://github.com/krovskiy/qrcodeweb) - text to QR codes
+- `[+]` [botanica](https://github.com/krovskiy/botanica) - QHD screenshots in Chrome DevTools
 
-### 𖤍 web apps 𖤍
+#### events & community
 
-- 🔵 [**meowifier-web**](https://github.com/krovskiy/meowifier-web)
-- 🔵 [**qrcodeweb**](https://github.com/krovskiy/qrcodeweb)
-- 🔵 [**botanica (extension)**](https://github.com/krovskiy/botanica)
+- `[*]` [EggHunt Event!](https://github.com/krovskiy/egghunt-event) - kafeshka egg hunt
+- `[+]` [ituk-beerpong](https://github.com/krovskiy/ituk-beerpong) - tournament registration and live brackets
+- `[+]` [ityk-karaoke](https://github.com/krovskiy/ityk-karaoke) - karaoke queue and voting
+- `[+]` [Secret Santa](https://github.com/krovskiy/secret-santa) - secret santa for k?beri helpdesk
+- `[+]` [Happy Birthday Wall](https://github.com/krovskiy/hbd-website) - live birthday messages
 
----
+#### desktop & games
 
-### 𖤍 python apps 𖤍
-
-- 🟣 [midi-to-appeal](https://github.com/krovskiy/midi-to-appeal)
-- 🟣 [**feed-kayas-cat**](https://github.com/krovskiy/feed-kayas-cat)
-- ⚪ [Aria-segmentului-reprezentare-grafica](https://github.com/krovskiy/Aria-segmentului-reprezentare-grafica)
-
----
-
-### 𖤍 kafeshka events apps 𖤍
-
-- 🟣 [**EggHunt Event!**](https://github.com/krovskiy/egghunt-event)
-- 🔵 [**Secret Santa**](https://github.com/krovskiy/secret-santa)
-- 🔵 [**Happy Birthday Wall**](https://github.com/krovskiy/hbd-website)
+- `[*]` [midi-to-appeal](https://github.com/krovskiy/midi-to-appeal) - MIDI to keyboard input for MGO3
+- `[*]` [feed-kayas-cat](https://github.com/krovskiy/feed-kayas-cat) - virtual pet game
 
 ---
 
-### 𖤍 competition + hackathons 𖤍
+### anime
 
-- ⚪ [**smartdemocracy**](https://github.com/krovskiy/smartdemocracy)
-- 🔵 [**enginaator-2026**](https://github.com/krovskiy/enginaator-2026)
-
----
-
-### 𖤍 commissions 𖤍
-
-- 🟣 [**soundhouse-md**](https://github.com/krovskiy/soundhouse-md)
-
----
-
-### 𖤍 uni + school work 𖤍
-
-- ⚪ [olimpiada-md-preg](https://github.com/krovskiy/olimpiada-md-preg)
-- ⚪ [k-beri-project](https://github.com/krovskiy/k-beri-project)
-- ⚪ [ICS0017-Project](https://github.com/Puntsik/ICS0017-Project)
-- ⚪ [cprogramming-practice](https://github.com/krovskiy/cprogramming-practice)
+![Anime picks: Neon Genesis Evangelion, Serial Experiments Lain, and K-On!](anime-pixel.png)
 
 ---
 
@@ -73,6 +50,9 @@
 
 ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
-*someone catch the thief* ᕕ(ᐛ)ᕗ
+*you're a rockstar* ᕕ(ᐛ)ᕗ
+
+
+<img src="https://count.getloli.com/@krovskiy-counter?theme=asoul&amp;padding=8&amp;offset=1&amp;align=center&amp;scale=1.2&amp;pixelated=1&amp;darkmode=auto" alt="Visitor counter" />
 
 </div>
