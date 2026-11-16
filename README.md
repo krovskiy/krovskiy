@@ -40,11 +40,6 @@
 
 ---
 
-### anime
-
-![Anime picks: Neon Genesis Evangelion, Serial Experiments Lain, and K-On!](anime-pixel.png)
-
----
 
 <div align="center">
 
